@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting industry and academic real world problems that attempt to reconstruct timing from static data points
 - 📫 How to reach me - adrishsen@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I collaborated on developing first single cell clustering algorithms for viruses using proteomics and transcriptomics
+- ⚡ Fun fact: ...I collaborated on developing the first single-cell high-dimensional clustering algorithms for viruses using proteomics (2012) and transcriptomics (2011)!!
 
 <!---
 adrishsen/adrishsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
