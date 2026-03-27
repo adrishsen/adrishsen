@@ -1,8 +1,8 @@
 * 👋 Hi, I'm @adrishsen — former virologist/immunologist turned industry data scientist and bioinformatics engineer
 * 🔬 Background in single-cell virology (Stanford/CDC); now focused on cancer progression, RNA-seq analysis, and AI-assisted diagnostics
-* 🛠️ Currently building: cloud-native bioinformatics pipelines on GCP (Snakemake, Nextflow), clinical genomics and transcriptomics CFR21-compliant workflows, and single-cell/spatial transcriptomics analyses
+* 🛠️ Currently building: cloud-native bioinformatics pipelines on GCP (Snakemake, Nextflow), clinical trial genomics/transcriptomics CFR-compliant workflows, and single-cell/spatial transcriptomics analyses
 * ☁️ GCP practitioner — VM orchestration, IAM, large-scale FASTQ data management, and GPU-accelerated compute
-* 🤖 Exploring AI-native workflow design: integrating LLMs into bioinformatics tooling, literature management, and research automation
+* 🤖 Exploring AI frontiers: multi-agent orchestration systems, bio-inspired learning dynamics (viral evolution → LLM theory), and epistemic cooperation frameworks for information systems
 * 💞️ Looking to collaborate on problems that reconstruct biological timing from static data — pseudotime trajectories, disease progression modeling, deconvolution
 * 📫 Reach me at adrishsen@gmail.com
 * 😄 He/Him
